@@ -17,7 +17,7 @@ I’m committed to using **technology** to make a positive impact while continuo
 
 Feel free to explore my repositories, or get in touch with me to collaborate on innovative projects!
 
-- 📬 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📬 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tanuj-panchariya-5415b3292?))
 - 📸 [Instagram](https://www.instagram.com/your-profile)
 
 ---
